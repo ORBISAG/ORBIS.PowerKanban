@@ -69,4 +69,4 @@ Todos:
 ![image](https://user-images.githubusercontent.com/4287938/100028074-5e26ce80-2dee-11eb-9522-315ecaafa02c.png)
 
 # Configuration
-- Please see our [Wiki](https://github.com/ORBISAG/D365-PowerKanban/wiki/Configuration)
+- Please see our [Wiki](https://github.com/ORBISAG/ORBIS.PowerKanban/wiki/Configuration)
