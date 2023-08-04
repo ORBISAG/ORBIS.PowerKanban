@@ -1,4 +1,6 @@
 # ORBIS PowerKanban
+ORBIS Power Kanban is available in a free limited version, allowing you to utilize a single configuration to use the Kanban Board view for a specific table, such as accounts. 
+Should you require multiple configurations across various tables, a licensed version is available for purchase, providing you with full configuration functionalities.
 
 ## Contact
 > If you are interested in buying a license for the unlimited version of this solution, get in touch with christopher.strauss[at]orbis.de via email.
