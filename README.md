@@ -1,9 +1,4 @@
 # ORBIS PowerKanban
-ORBIS Power Kanban is available in a free limited version, allowing you to utilize a single configuration to use the Kanban Board view for a specific table, such as accounts. 
-Should you require multiple configurations across various tables, a licensed version is available for purchase, providing you with full configuration functionalities.
-
-## Contact
-> If you are interested in buying a license for the unlimited version of this solution, get in touch with christopher.strauss[at]orbis.de via email.
 
 ## General
 This is a custom PCF control for displaying a Kanban inside D365 datasets.
@@ -72,3 +67,9 @@ Todos:
 
 # Configuration
 - Please see our [Wiki](https://github.com/ORBISAG/ORBIS.PowerKanban/wiki/Configuration)
+
+ORBIS Power Kanban is available in a free limited version, allowing you to utilize a single configuration to use the Kanban Board view for a specific table, such as accounts. 
+Should you require multiple configurations across various tables, a licensed version is available for purchase, providing you with full configuration functionalities.
+
+## Contact
+> If you are interested in buying a license for the unlimited version of this solution, get in touch with christopher.strauss[at]orbis.de via email.
