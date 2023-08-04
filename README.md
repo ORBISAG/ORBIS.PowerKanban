@@ -27,8 +27,6 @@ Features so far:
 - Virtual Entities can be used as well
 - Columns that contain html (such as email descriptions) are converted to plain text
 
-Todos:
-- Virtualization and Performance Tweaking
 
 # Impressions
 ## Simple View (Primary Entity only)
